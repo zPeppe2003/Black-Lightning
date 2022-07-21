@@ -32,7 +32,7 @@
 * [Hellboi-Danish](https://t.me/Hellboi-Danish)
 
 # Special thanks
-to [Aditya](https://github.com/Paramatin-OP) for maintaining the repository
+to ALL BL DEVELOPERS FOR MAINTAINING THE REPOSITORY!
 
 # Support
 <a href="https://t.me/Black_lightning_Channel"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
